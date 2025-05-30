@@ -1,2 +1,2 @@
 # weather_app
-A weather app made using flutter
+ClimateCast is a sleek and responsive weather application built using Flutter. It provides real-time weather updates, 7-day forecasts, and location-based data using APIs. The app features dynamic UI elements like animated weather icons and background changes based on conditions. It supports light/dark mode and is optimized for both Android and iOS platforms. The app showcases API integration, state management, and cross-platform mobile development with Flutter and Dart.
